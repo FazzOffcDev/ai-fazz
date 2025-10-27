@@ -610,4 +610,4 @@ app.listen(PORT, () => {
    open('http://localhost:3000');
 });
 
-module.exports = app;
+export default app;
